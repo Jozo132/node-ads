@@ -7,15 +7,7 @@ node-ads [![NPM Version](https://img.shields.io/npm/v/node-ads.svg)](https://www
 
 ### Changelog
 
-- `debug` module.
-- Added aliases: `TOD -> TIME_OF_DAY` and `DT -> DATE_AND_TIME`.
-- Code standardized.
-- Using `safe-buffer`.
-- When we use notification, the notification will blocked to fire if too many notifications are defined
-- `multiRead` method and read bug fix (timeout).
-- `multiRead` and `getHandels` method improved, `multiWrite` added.
-- working string length
-- array added
+- Code updated to use ES6 code style.
 
 ### Requirements
 * Beckhoff PLC that has an ethernet connection and is connected to your LAN
